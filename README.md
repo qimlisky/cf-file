@@ -8,5 +8,6 @@
 https://www.lddgo.net/encrypt/otp-code-generate
 ```
 ## 声明
-请勿用于非法用途  
-遵守当地法律法规
+- 此项目仅供学习使用
+- 请勿用于非法用途  
+- 遵守当地法律法规
